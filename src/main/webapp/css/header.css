@@ -1,0 +1,44 @@
+
+#contHeaderbar {
+	width:1322px;
+	height:35px;
+	background-color:#374395;
+	display: inline-block;
+	margin-left:auto;
+	margin-right:auto;
+	padding-left:0.5em;
+	padding-right:0.5em;
+
+}
+#greatingMsg{
+	
+	padding-left:600px;
+}
+#contHeaderbar ul {
+	list-style-type:none;
+	margin:0;
+	padding-top:8px;	
+	padding-left:0px;
+	
+}
+
+.liLogoTextStyle {
+	display:inline;
+	padding:0px;
+	margin:0px;
+	font-size:16px;
+	color:#FFFFFF;;
+	font-weight:bold;
+		
+}
+.liTextStyle {
+	display:inline;
+	padding:0px;
+	margin:0px;
+	font-size:12px;
+	color:#FFFFFF;;
+	font-weight:normal;
+	
+
+}
+

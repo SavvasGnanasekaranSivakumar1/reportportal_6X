@@ -1,0 +1,5 @@
+jdbc.driverClassName=oracle.jdbc.driver.OracleDriver
+jdbc.url=jdbc:oracle:thin:@//dn1uprasxodb01-scan.pearsontc.com:1521/RAS_DN
+#nj2uprasxodb01-scan.pearsontc.com:1521/ras
+jdbc.username=roy_reports
+jdbc.password=roy_reports

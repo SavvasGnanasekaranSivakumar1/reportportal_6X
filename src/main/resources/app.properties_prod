@@ -1,0 +1,2 @@
+app.argoslogouturl=https://am.pearson.com/cleartrust/jsp/LogoutFrame.jsp?appId=400
+app.pdfreportsdir=/usr1/ROY/repgen/repdest

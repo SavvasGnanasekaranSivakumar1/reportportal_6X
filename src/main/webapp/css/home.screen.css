@@ -1,0 +1,206 @@
+
+	body {
+		font-family: Arial;
+		font-size: 12px;
+	}
+	
+	#loading {
+		background: pink;
+		position: absolute;
+		align:center;
+		top: 0px;
+		width: 80px;
+		left: 900px;
+		padding: 2px;
+		z-index: 2;
+	}	
+	
+	#container {
+		text-align: left;
+		position: absolute;
+	}
+	
+	#reportList {
+		width: 297px;
+		height: 512px;
+		padding: 0em;
+		position: absolute;
+		top: 5px;
+		background-color: white;	
+		background-image: url("/royaltyreports/images/said_bar1.png");
+	
+	}
+	
+	#reportList h3 {
+		text-align: center;
+		margin: 0;
+		font-size: 16px;
+	}
+	
+	#reportInformation {
+		width: 702px;
+		height: 500px;
+		padding: 0.5em;
+		position: absolute;
+		top: 5px;
+		left: 309px;
+		background-color: white;
+		background-image: url("/royaltyreports/images/mid_bar.png");
+	}	
+	#reportInformation h3 {
+		text-align: center;
+		margin: 0;
+		font-size: 16px;
+	}	
+	#reportSearch {
+		width: 297px;
+		height: 512px;
+		padding: 0em;
+		position: absolute;
+		top: 5px;
+		left: 1035px;
+		background-image: url("/royaltyreports/images/said_bar1.png");
+	}
+		
+	#extPad {
+		padding:0.5em;
+		padding-bottom:0em;
+	}
+	
+	#reportSearch h3 {
+		text-align: center;
+		margin: 0;	
+		font-size: 16px;
+	}
+	
+	#reportInformationContainerScroll {
+		overflow: auto;
+		height: 56%;
+	}
+	#searchScrollingWrap {
+		overflow:auto;
+		height:73%;
+	}
+	#reportInformationContainer {
+		width: 100%;
+		height: 100%;
+	}		
+	
+	#printableContentContainer {
+		margin-top:20px;		
+		height: 10%;
+		width: 100%;
+	
+	}
+	#printOptionsToolbar {
+		padding: 10px 4px;
+	}
+				
+	#printableContentData {
+		background: none repeat scroll 0 0 #FFFFFF;
+	    border: 20px solid grey;
+	    float: left;
+	    height: 100%;
+	    overflow: scroll;
+	    padding: 10px;
+	    width: 93%;
+	
+	}			
+				
+	#reportInformationContainer h2 {
+		padding: 1px;
+		font-size: 20px;
+	}
+	
+	
+	#reportViewerContainer {
+		height: 100%;
+		width: 100%;
+	}
+	
+	#searchSidebar {
+		width: 20%;
+		height: 100%;
+		padding: 0.5em;
+		margins: 2px;
+		float: right;	
+		background-image: url("/royaltyreports/images/said_bar2.png");
+	}
+	
+	#searchSidebar h3 {
+		text-align: center;	
+		margin: 0;
+		font-size: 16px;
+	}
+	
+	#scrollingWrap {
+		overflow: auto;
+		height: 77%;
+		
+	}
+	#repTreeScrollingWrap {
+		overflow: auto;			
+		height: 88%;		
+		margin:0px;	
+		margin-top:5px;	
+		
+	}
+	#addToFav {
+		boarder:0px;
+		top:5px;
+		float:right;	
+	}
+	#reportSearchInput {
+		width: 230px; 
+		height: 18px;
+	}
+	#reportSearchClear {
+		height:24px;
+		top:4px;
+	}
+	#searchChoice {
+		margin:2px;
+	
+	}	
+	#clear {
+		height:24px;
+		top:5px;
+	}
+	#filter {
+		width: 197px; 
+		height: 18px;
+	}
+	
+	.alt {
+		background: #c3c9eb;
+	}
+	
+	table {
+		width: 100%;
+		border-top: 1px solid #939393;
+		border-bottom: 1px solid #939393;
+		border-collapse: collapse;
+	}
+	
+	th {
+		height: 30px;
+		padding-left: 10px;
+		text-align: left;
+		border-bottom: 2px solid #939393;
+	}
+	
+	td {
+		padding-left: 10px;
+		height: 30px;
+	}
+	
+	.highlight {
+		background-color: #ffff38;
+	}
+	
+	
+	#toolbar {
+		padding: 10px 4px;
+	}
+
+	

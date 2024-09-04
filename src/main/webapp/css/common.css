@@ -1,0 +1,10 @@
+.ui-button {
+    height:19px;
+    padding:5px 13px;
+    border:0px;
+    
+}
+
+.ui-button-text-only .ui-button-text {
+    padding: 0;
+}
